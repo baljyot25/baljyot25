@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baljyot25
+- 👋 Hi, I’m Baljyot
 
 
 <!---
